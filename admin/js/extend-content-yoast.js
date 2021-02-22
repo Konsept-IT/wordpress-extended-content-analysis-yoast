@@ -47,7 +47,10 @@ jQuery(document).ready(function($) {
             url: ajaxurl,
             type: 'post',
             dataType: 'json',
-            data: {postID: postParameter}
+            data: {
+                action: 'extend-content-yoast-get-post-content',
+                postID: postParameter
+            }
         })
         .done(function(response) {
             _self.extra_content = response.content;
