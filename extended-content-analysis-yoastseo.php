@@ -1,18 +1,12 @@
 <?php
 /**
- * @link              http://www.ressourcenmangel.de/
- * @since             1.0.1
- * @package           extended-content-analysis-yoastseo
- *
  * @wordpress-plugin
  * Plugin Name:       Extended Content Analysis for YOAST SEO
- * Plugin URI:        https://github.com/Basbee
+ * Plugin URI:        https://github.com/Konsept-IT/wordpress-extended-content-analysis-yoast
  * Description:       Plugin extends the "Content Analysis" Features of YOAST SEO while it fetches the complete Post or Page content manually and even gets the data out of layout building tools like Enfolds Avia Layout Builder.
  * Version:           1.0.1
- * Author:            Sebastian Kulahs
- * Author URI:        https://github.com/Basbee
- * Author:            Alexander Sagen <alexander@konsept-it.no>
- * Author URI:        https://github.com/Konsept-IT
+ * Author:            Konsept-IT AS
+ * Author URI:        https://konsept-it.no
  * Text Domain:       extended-content-analysis-yoastseo
  */
 
